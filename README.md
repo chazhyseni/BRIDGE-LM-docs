@@ -10,10 +10,6 @@ This repository hosts the public documentation for BRIDGE-LM, a hierarchical tra
 
 </div>
 
-## 📚 Documentation
-
-The full interactive documentation is available at: [https://chazhyseni.github.io/BRIDGE-LM-docs/](https://chazhyseni.github.io/BRIDGE-LM-docs/)
-
 ## 🔐 Access to Source Code
 
 BRIDGE-LM source code is in a private repository. For access:
