@@ -45,9 +45,9 @@ If you use BRIDGE-LM in your research, please cite:
 ## 🙏 Acknowledgments
 
 BRIDGE-LM builds upon:
-- HyenaDNA (Nguyen et al., Stanford)
-- DNABERT-2 (Zhou et al., Microsoft Research)
-- LucaOne (Chen et al.)
+- HyenaDNA
+- DNABERT-2
+- LucaOne
 
 ---
 *Full source code available upon request*
